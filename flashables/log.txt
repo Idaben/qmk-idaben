@@ -1,0 +1,1 @@
+V4_001 = fixed the switch desktop shortcut for linux, key was bound to alt + gui, corrected it to ctrl + alt. 
